@@ -1,3 +1,3 @@
 First string = 1
-Second string
+Second string = 2
 Third string
