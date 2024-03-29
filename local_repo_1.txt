@@ -1,1 +1,3 @@
-First local repo
+First string
+Second string
+Third string
